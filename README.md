@@ -38,9 +38,4 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student at A
 
 ---
 
-### 📈 **GitHub Stats**
-![Nasiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muniab047&show_icons=true&theme=radical)
-
----
-
 Feel free to connect and collaborate! I'm always open to learning from and working with others in the tech community.
