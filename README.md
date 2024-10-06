@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student at A
 
 - [**Andalus Bot - Telegram Bot**](https://github.com/muniab047/andalus-telegram-bot-vercel): Created a **Python-based** Telegram bot for Andalus Voluntary Tutor Organization, streamlining communication by providing study schedules, textbooks, and tutor availability updates.
 
-- [**Akhewat Telegram Bot**](https://github.com/muniab047/Jemea-academics-sector-bot-): Developed and deployed a **Telegram bot** for sharing course materials using **Python** and **PostgreSQL**, reducing search time for over 300 students and automating data updates and resource management.
+- [**Akhewat - Telegram Bot**](https://github.com/muniab047/Jemea-academics-sector-bot-): Developed and deployed a **Telegram bot** for sharing course materials using **Python** and **PostgreSQL**, reducing search time for over 300 students and automating data updates and resource management.
 
 ---
 
