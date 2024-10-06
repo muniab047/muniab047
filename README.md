@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student at A
 ---
 
 ### 🌟 **Featured Projects**
-- [**U-Learn - E-Learning Platform**]: Collaborated on the development of the "U-Learn" platform using **React.js** and **Bootstrap**, implementing interactive, responsive interfaces, and integrating dynamic content through collaboration with the design team.
+- [**U-Learn - E-Learning Platform**](https://github.com/abel12-tech/u-learn): Collaborated on the development of the "U-Learn" platform using **React.js** and **Bootstrap**, implementing interactive, responsive interfaces, and integrating dynamic content through collaboration with the design team.
   
 - [**Library Management System**]: Designed and implemented a streamlined **Library Management System** in **Java**, featuring book addition, student registration, statistical insights, and efficient book issue/return management, showcasing proficiency in software design and data management.
 
