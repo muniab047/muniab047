@@ -33,6 +33,8 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student at A
 
 ### 🌟 **Featured Projects**
 - [**U-Learn - E-Learning Platform**](https://github.com/abel12-tech/u-learn): Collaborated on the development of the "U-Learn" platform using **React.js** and **Bootstrap**, implementing interactive, responsive interfaces, and integrating dynamic content through collaboration with the design team.
+
+- [**Ecommerce Flutter Mobile App**](https://github.com/muniab047/2024-internship-mobile-tasks/tree/main/product-3/task_6): Built a **Flutter-based mobile app** as part of internship tasks, focusing on clean architecture, state management, and responsive design to ensure a seamless user experience.
   
 - [**Library Management System**](https://github.com/muniab047/Library-managment-system): Designed and implemented a streamlined **Library Management System** in **Java**, featuring book addition, student registration, statistical insights, and efficient book issue/return management, showcasing proficiency in software design and data management.
 
