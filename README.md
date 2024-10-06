@@ -46,19 +46,4 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student at A
 
 ---
 
-### 🏆 **GitHub Achievements**
-
-- **Total Contributions**: ![GitHub Contributions](https://img.shields.io/badge/dynamic/json?color=green&label=contributions&query=contributions&url=https://api.github.com/users/muniab047)
-- **Stars on Repositories**: ![GitHub Stars](https://img.shields.io/github/stars/muniab047?style=social)
-- **Repositories Forked**: ![GitHub Forks](https://img.shields.io/github/forks/muniab047?style=social)
-- **Top Language**: ![Top Language](https://img.shields.io/github/languages/top/muniab047/Yabi-Chat-Application)
-- **Followers**: ![GitHub Followers](https://img.shields.io/github/followers/muniab047?style=social)
-
----
-
-### **My GitHub Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=muniab047&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 Feel free to connect and collaborate! I'm always open to learning from and working with others in the tech community.
