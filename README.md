@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student at A
 
 - [**Yabi Chat - Java Chat Application**](https://github.com/muniab047/Yabi-Chat-Application): Contributed to the development of Yabi Chat, a **Java-based** real-time messaging application using **socket programming**. Enhanced the user experience with real-time messaging and an intuitive interface.
 
-- [**Andalus Bot - Telegram Bot**]: Created a **Python-based** Telegram bot for Andalus Voluntary Tutor Organization, streamlining communication by providing study schedules, textbooks, and tutor availability updates.
+- [**Andalus Bot - Telegram Bot**](https://github.com/muniab047/andalus-telegram-bot-vercel): Created a **Python-based** Telegram bot for Andalus Voluntary Tutor Organization, streamlining communication by providing study schedules, textbooks, and tutor availability updates.
 
 - [**Akhewat Telegram Bot**](https://github.com/muniab047/Jemea-academics-sector-bot-): Developed and deployed a **Telegram bot** for sharing course materials using **Python** and **PostgreSQL**, reducing search time for over 300 students and automating data updates and resource management.
 
