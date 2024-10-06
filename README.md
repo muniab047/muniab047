@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student at A
 - 🔭 **Current Focus**: Software Engineering Intern at **Eskalate**, building real-time, scalable features and AI-powered applications.
 - 💡 **Past Projects**: Developed a Telegram bot for course material sharing, built an AI legal assistant, and a real-time desktop chat app.
 - 🌱 **Currently Learning**: Advanced **distributed systems** and diving deeper into **machine learning** techniques.
-- 💼 **Career Goals**: I'm looking to contribute to innovative projects in **backend development**, **full-stack development**, and **AI-driven applications**.
+- 💼 **Career Goals**: I'm looking to contribute to innovative projects in **UI/UX design**, **frontend development**, **full-stack development**, and **AI-driven applications**.
 - 💬 **Ask me about**: Data Structures & Algorithms, Flutter, Django, and Competitive Programming (LeetCode & Codeforces!).
 
 ---
